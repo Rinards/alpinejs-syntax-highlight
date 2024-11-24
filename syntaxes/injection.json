@@ -1,6 +1,6 @@
 {
     "scopeName": "html.alpinejs.attribute",
-    "injectionSelector": ["L:text.html.derivative", "L:text.html.php", "L:text.html.twig", "L:templ"],
+    "injectionSelector": ["L:text.html.derivative", "L:text.html.php", "L:text.html.twig", "L:html-template.templ"],
     "patterns": [
         {
             "include": "#alpine-directives"

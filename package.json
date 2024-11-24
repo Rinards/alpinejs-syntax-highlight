@@ -37,7 +37,7 @@
 					"text.html.derivative", 
 					"text.html.php", 
 					"text.html.twig",
-					"templ"
+					"html-template.templ"
 				],
 				"embeddedLanguages": {
 					"meta.embedded.inline.alpinejs": "javascript"
